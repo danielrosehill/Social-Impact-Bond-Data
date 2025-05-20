@@ -1,0 +1,386 @@
+Project ID,Outcome Metric Id - (Value),Currency - (Value),Price Per Unit - Amount - (Value),Price Per Unit - Amount USD - (Value),Maximum Price if all targets achieved - Amount - (Value),Contracted increases to outcome pricing - (Value),Price Description - (Value),Sources,Notes
+INDIGO-POJ-0001,outcomemetric1,ARS,12635,325.1415337107566,1111880,"After the COVID-19 pandemic, it was agreed that outcome achievements of vulnerable young people would be payed as achievements of extremely vulnerable young people. ",,,Contract cap: no more than 40% of participants can use educational services to finish high school.
+INDIGO-POJ-0001,outcomemetric2,ARS,42116,1083.787956767885,2257400,"After the COVID-19 pandemic, it was agreed that outcome achievements of vulnerable young people would be payed as achievements of extremely vulnerable young people. ",,,No more than 40% of outcome achievements related to access to employment will be paid. 
+INDIGO-POJ-0001,outcomemetric3,ARS,84234,2167.627380339681,6822954,"After the COVID-19 pandemic, it was agreed that outcome achievements of vulnerable young people would be payed as achievements of extremely vulnerable young people. ",,,Only 70% of outcome achievements can be paid  in concept of achievements of vulnerable young people. This is to incentivize achievements of extremely vulnerable young people too. 
+INDIGO-POJ-0001,outcomemetric4,ARS,48471,1247.323726196603,,"After the COVID-19 pandemic, it was agreed that outcome achievements of vulnerable young people would be payed as achievements of extremely vulnerable young people. ",,,
+INDIGO-POJ-0001,outcomemetric5,ARS,846250,21776.89140504375,,,,,
+INDIGO-POJ-0001,outcomemetric6,ARS,17689,455.1981471950592,619115,,,,Contract cap: no more than 40% of participants can use educational services to finish high school.
+INDIGO-POJ-0001,outcomemetric7,ARS,58963,1517.318579516212,11645189,,,,No more than 40% of outcome achievements related to access to employment will be paid. 
+INDIGO-POJ-0001,outcomemetric8,ARS,117928,3034.688625836336,15920280,,,,
+INDIGO-POJ-0001,outcomemetric9,ARS,67860,1746.268656716418,,,,,
+INDIGO-POJ-0121,outcomemetric1,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric2,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric3,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric4,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric5,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric6,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric7,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric8,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric9,GBP,1760,,,,,,
+INDIGO-POJ-0121,outcomemetric10,GBP,4730,,,,,,
+INDIGO-POJ-0121,outcomemetric11,GBP,4730,,,,,,
+INDIGO-POJ-0121,outcomemetric12,GBP,660,,,,,,
+INDIGO-POJ-0121,outcomemetric13,GBP,2750,,,,,,
+INDIGO-POJ-0121,outcomemetric14,GBP,2750,,,,,,
+INDIGO-POJ-0121,outcomemetric15,GBP,4730,,,,,,
+INDIGO-POJ-0121,outcomemetric16,GBP,110,,,,,,
+INDIGO-POJ-0121,outcomemetric17,GBP,220,,,,,,
+INDIGO-POJ-0121,outcomemetric18,GBP,330,,,,,,
+INDIGO-POJ-0121,outcomemetric19,GBP,660,,,,,,
+INDIGO-POJ-0121,outcomemetric20,GBP,2750,,,,,,
+INDIGO-POJ-0121,outcomemetric21,GBP,2750,,,,,,
+INDIGO-POJ-0121,outcomemetric22,GBP,2750,,,,,,
+INDIGO-POJ-0121,outcomemetric23,GBP,2750,,,,,,
+INDIGO-POJ-0122,outcomemetric1,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric2,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric3,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric4,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric5,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric6,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric7,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric8,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric9,GBP,1760,,,,,,
+INDIGO-POJ-0122,outcomemetric10,GBP,4730,,,,,,
+INDIGO-POJ-0122,outcomemetric11,GBP,4730,,,,,,
+INDIGO-POJ-0122,outcomemetric12,GBP,660,,,,,,
+INDIGO-POJ-0122,outcomemetric13,GBP,2750,,,,,,
+INDIGO-POJ-0122,outcomemetric14,GBP,2750,,,,,,
+INDIGO-POJ-0122,outcomemetric15,GBP,4730,,,,,,
+INDIGO-POJ-0122,outcomemetric16,GBP,110,,,,,,
+INDIGO-POJ-0122,outcomemetric17,GBP,220,,,,,,
+INDIGO-POJ-0122,outcomemetric18,GBP,330,,,,,,
+INDIGO-POJ-0122,outcomemetric19,GBP,660,,,,,,
+INDIGO-POJ-0122,outcomemetric20,GBP,2750,,,,,,
+INDIGO-POJ-0122,outcomemetric21,GBP,2750,,,,,,
+INDIGO-POJ-0122,outcomemetric22,GBP,2750,,,,,,
+INDIGO-POJ-0122,outcomemetric23,GBP,2750,,,,,,
+INDIGO-POJ-0123,outcomemetric1,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric2,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric3,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric4,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric5,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric6,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric7,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric8,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric9,GBP,1760,,,,,,
+INDIGO-POJ-0123,outcomemetric10,GBP,4730,,,,,,
+INDIGO-POJ-0123,outcomemetric11,GBP,4730,,,,,,
+INDIGO-POJ-0123,outcomemetric12,GBP,660,,,,,,
+INDIGO-POJ-0123,outcomemetric13,GBP,2750,,,,,,
+INDIGO-POJ-0123,outcomemetric14,GBP,2750,,,,,,
+INDIGO-POJ-0123,outcomemetric15,GBP,4730,,,,,,
+INDIGO-POJ-0123,outcomemetric16,GBP,110,,,,,,
+INDIGO-POJ-0123,outcomemetric17,GBP,220,,,,,,
+INDIGO-POJ-0123,outcomemetric18,GBP,330,,,,,,
+INDIGO-POJ-0123,outcomemetric19,GBP,660,,,,,,
+INDIGO-POJ-0123,outcomemetric20,GBP,2750,,,,,,
+INDIGO-POJ-0123,outcomemetric21,GBP,2750,,,,,,
+INDIGO-POJ-0123,outcomemetric22,GBP,2750,,,,,,
+INDIGO-POJ-0123,outcomemetric23,GBP,2750,,,,,,
+INDIGO-POJ-0131,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0131,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0131,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0131,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0131,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0131,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0131,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0131,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0131,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0131,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0131,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0131,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0131,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0131,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0131,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0132,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0132,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0132,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0132,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0132,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0132,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0132,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0132,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0132,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0132,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0132,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0132,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0132,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0132,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0132,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0133,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0133,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0133,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0133,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0133,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0133,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0133,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0133,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0133,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0133,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0133,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0133,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0133,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0133,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0133,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0134,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0134,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0134,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0134,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0134,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0134,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0134,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0134,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0134,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0134,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0134,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0134,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0134,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0134,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0134,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0135,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0135,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0135,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0135,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0135,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0135,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0135,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0135,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0135,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0135,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0135,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0135,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0135,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0135,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0135,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0136,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0136,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0136,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0136,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0136,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0136,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0136,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0136,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0136,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0136,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0136,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0136,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0136,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0136,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0136,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0137,outcomemetric1,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric2,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric3,GBP,200,,,,,,
+INDIGO-POJ-0137,outcomemetric4,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric5,GBP,1500,,,,,,
+INDIGO-POJ-0137,outcomemetric6,GBP,1500,,,,,,
+INDIGO-POJ-0137,outcomemetric7,GBP,1500,,,,,,
+INDIGO-POJ-0137,outcomemetric8,GBP,1500,,,,,,
+INDIGO-POJ-0137,outcomemetric9,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric10,GBP,1500,,,,,,
+INDIGO-POJ-0137,outcomemetric11,GBP,2500,,,,,,
+INDIGO-POJ-0137,outcomemetric12,GBP,3500,,,,,,
+INDIGO-POJ-0137,outcomemetric13,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric14,GBP,3000,,,,,,
+INDIGO-POJ-0137,outcomemetric15,GBP,2000,,,,,,
+INDIGO-POJ-0137,outcomemetric16,GBP,4500,,,,,,
+INDIGO-POJ-0137,outcomemetric17,GBP,3500,,,,,,
+INDIGO-POJ-0137,outcomemetric18,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric19,GBP,500,,,,,,
+INDIGO-POJ-0137,outcomemetric20,GBP,250,,,,,,
+INDIGO-POJ-0137,outcomemetric21,GBP,250,,,,,,
+INDIGO-POJ-0138,outcomemetric1,GBP,1300,949,11700,,,,
+INDIGO-POJ-0138,outcomemetric2,GBP,800,584,11700,,,,
+INDIGO-POJ-0138,outcomemetric3,GBP,700,511,11700,,,,
+INDIGO-POJ-0138,outcomemetric4,GBP,2200,1606,11700,,,,
+INDIGO-POJ-0138,outcomemetric5,GBP,3300,2409,11700,,,,
+INDIGO-POJ-0138,outcomemetric6,GBP,2000,1460,11700,,,,
+INDIGO-POJ-0138,outcomemetric7,GBP,1200,876,11700,,,,
+INDIGO-POJ-0138,outcomemetric8,GBP,2600,1898,11700,,,,
+INDIGO-POJ-0138,outcomemetric9,GBP,1000,730,11700,,,,
+INDIGO-POJ-0139,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric2,GBP,1400,1022,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric3,GBP,700,511,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric4,GBP,1100,803,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric5,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric6,GBP,5100,3723,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric7,GBP,3500,2555,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric8,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric9,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0139,outcomemetric10,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric2,GBP,1400,1022,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric3,GBP,700,511,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric4,GBP,1100,803,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric5,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric6,GBP,5100,3723,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric7,GBP,3500,2555,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric8,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric9,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0140,outcomemetric10,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric1,GBP,1300,949,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric2,GBP,800,584,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric3,GBP,700,511,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric4,GBP,2200,1606,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric5,GBP,3300,2409,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric6,GBP,2000,1460,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric7,GBP,1200,876,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric8,GBP,2600,1898,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0141,outcomemetric9,GBP,1000,730,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric2,GBP,800,584,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric3,GBP,700,511,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric4,GBP,2200,1606,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric5,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric6,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric7,GBP,1200,876,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric8,GBP,2600,1898,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0142,outcomemetric9,GBP,1000,730,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric2,GBP,800,584,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric3,GBP,700,511,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric4,GBP,2200,1606,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric5,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric6,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric7,GBP,1200,876,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric8,GBP,2600,1898,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0143,outcomemetric9,GBP,1000,730,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric2,GBP,1400,1022,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric3,GBP,1100,803,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric4,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric5,GBP,5100,3723,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric6,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric7,GBP,1200,876,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric8,GBP,3500,2555,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0144,outcomemetric9,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric2,GBP,1400,1022,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric3,GBP,700,511,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric4,GBP,1100,803,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric5,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric6,GBP,5100,3723,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric7,GBP,3500,2555,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric8,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric9,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0145,outcomemetric10,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric1,GBP,1300,949,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric2,GBP,1400,1022,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric3,GBP,700,511,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric4,GBP,1100,803,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric5,GBP,3300,2409,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric6,GBP,5100,3723,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric7,GBP,3500,2555,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric8,GBP,2000,1460,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric9,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0146,outcomemetric10,GBP,900,657,,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric1,GBP,1300,949,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric2,GBP,800,584,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric3,GBP,700,511,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric4,GBP,2200,1606,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric5,GBP,3300,2409,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric6,GBP,2000,1460,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric7,GBP,1200,876,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric8,GBP,2600,1898,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0147,outcomemetric9,GBP,1000,730,11700,,,,"The maximum amount payable per individual is 8,200 for the first round of Innovation Fund projects, and 11,700 GBP for the second round (the maximum possible) of Innovation Fund Projects."
+INDIGO-POJ-0152,outcomemetric1,GBP,600,772.2239463999999,192000,,"Apart from the general wellbeing outcome, each outcome can only be claimed once per client. For example, if an individual abandons accommodation (or the valid start date otherwise resets) before achieving the 3 month sustainment period, then any subsequent accommodation must achieve an additional 3 months sustainment before being eligible to claim the 3 month sustainment accommodation outcome.",,
+INDIGO-POJ-0152,outcomemetric2,GBP,1500,1930.559866,480000,,"Local authorities can agree to pay different rates for outcomes through their procurement processes (e.g. to pay outcomes at either a higher or lower rate). However, this will not impact on the rates paid out by MHCLG, and local authorities should consider any financial risk associated with doing so. Where a local authority does make changes to the rates, this will not have any impact on the outcomes themselves, which must still meet the definitions outlined below.",,
+INDIGO-POJ-0152,outcomemetric3,GBP,1500,1930.559866,480000,,"The average cost expected to be paid out for an individual is £9,000. A maximum cost per individual (or CAP) will be set at £19,000 per individual.",,
+INDIGO-POJ-0152,outcomemetric4,GBP,2600,3346.303767733333,832000,,,,
+INDIGO-POJ-0152,outcomemetric5,GBP,2500,3217.599776666666,800000,,,,
+INDIGO-POJ-0152,outcomemetric6,GBP,1800,2316.6718392,576000,,,,
+INDIGO-POJ-0152,outcomemetric7,GBP,100,128.7039910666666,32000,,,,
+INDIGO-POJ-0152,outcomemetric8,GBP,100,257.4079821333333,32000,,,,
+INDIGO-POJ-0152,outcomemetric9,GBP,100,772.2239463999999,32000,,,,
+INDIGO-POJ-0152,outcomemetric10,GBP,200,128.7039910666666,64000,,,,
+INDIGO-POJ-0152,outcomemetric11,GBP,600,1415.743901733333,192000,,,,
+INDIGO-POJ-0152,outcomemetric12,GBP,100,154.44478928,32000,,,,
+INDIGO-POJ-0152,outcomemetric13,GBP,1100,3346.303767733333,352000,,,,
+INDIGO-POJ-0152,outcomemetric14,GBP,500,643.5199553333333,160000,,,,
+INDIGO-POJ-0152,outcomemetric15,GBP,400,514.8159642666666,128000,,,,
+INDIGO-POJ-0152,outcomemetric16,GBP,800,1029.631928533333,256000,,,,
+INDIGO-POJ-0152,outcomemetric17,GBP,1900,2445.375830266667,608000,,,,
+INDIGO-POJ-0152,outcomemetric18,GBP,1800,2316.6718392,576000,,,,
+INDIGO-POJ-0152,outcomemetric19,GBP,2400,3088.8957856,768000,,,,
+INDIGO-POJ-0152,outcomemetric20,GBP,2200,2831.487803466666,704000,,,,
+INDIGO-POJ-0154,outcomemetric1,GBP,600,,180000,,,,
+INDIGO-POJ-0154,outcomemetric2,GBP,1500,,450000,,,,
+INDIGO-POJ-0154,outcomemetric3,GBP,1500,,450000,,,,
+INDIGO-POJ-0154,outcomemetric4,GBP,2600,,780000,,,,
+INDIGO-POJ-0154,outcomemetric5,GBP,2500,,750000,,,,
+INDIGO-POJ-0154,outcomemetric6,GBP,1800,,540000,,,,
+INDIGO-POJ-0154,outcomemetric7,GBP,100,,30000,,,,
+INDIGO-POJ-0154,outcomemetric8,GBP,100,,30000,,,,
+INDIGO-POJ-0154,outcomemetric9,GBP,100,,30000,,,,
+INDIGO-POJ-0154,outcomemetric10,GBP,200,,60000,,,,
+INDIGO-POJ-0154,outcomemetric11,GBP,600,,180000,,,,
+INDIGO-POJ-0154,outcomemetric12,GBP,100,,30000,,,,
+INDIGO-POJ-0154,outcomemetric13,GBP,1100,,330000,,,,
+INDIGO-POJ-0154,outcomemetric14,GBP,120,,36000,,,,
+INDIGO-POJ-0154,outcomemetric15,GBP,2600,,780000,,,,
+INDIGO-POJ-0154,outcomemetric16,GBP,500,,150000,,,,
+INDIGO-POJ-0154,outcomemetric17,GBP,400,,120000,,,,
+INDIGO-POJ-0154,outcomemetric18,GBP,800,,240000,,,,
+INDIGO-POJ-0154,outcomemetric19,GBP,1900,,570000,,,,
+INDIGO-POJ-0154,outcomemetric20,GBP,1800,,540000,,,,
+INDIGO-POJ-0154,outcomemetric21,GBP,2400,,720000,,,,
+INDIGO-POJ-0154,outcomemetric22,GBP,2200,,660000,,,,
+INDIGO-POJ-0195,outcomemetric1,GBP,4390,,,,,,
+INDIGO-POJ-0195,outcomemetric2,GBP,1310,,,,,,
+INDIGO-POJ-0195,outcomemetric3,GBP,8240,,,,,,
+INDIGO-POJ-0195,outcomemetric4,GBP,9340,,,,,,
+INDIGO-POJ-0195,outcomemetric5,GBP,430,,,,,,
+INDIGO-POJ-0195,outcomemetric6,GBP,320,,,,,,
+INDIGO-POJ-0299,outcomemetric2,GBP,49,,491639,,,,per reduced bed day triggered
+INDIGO-POJ-0300,outcomemetric2,GBP,765.63,,1967413,,Reduction in Unplanned Hospital Bed Days in the last 12 months of life for REACT patients  ,,during CBO funded period to 31.3.24 
+INDIGO-POJ-0301,outcomemetric1,USD,46,,1653195,,per tonne collected,,
+INDIGO-POJ-0301,outcomemetric2,USD,400,,323100,,per unique job filled,,
+INDIGO-POJ-0301,outcomemetric3,USD,40000,,43080,,If average wage paid to sorters at the end of Year 5 is at least 25% above national min wage,,
+INDIGO-POJ-0302,outcomemetric1,USD,240,,144000,,per participant that starts the course,,
+INDIGO-POJ-0302,outcomemetric2,USD,1000,,450000,,per participant that enters employment,,
+INDIGO-POJ-0302,outcomemetric3,USD,1100,,407000,,per participant that sustains employment for at least 6 months - upto 370 outcomes,,
+INDIGO-POJ-0302,outcomemetric3,USD,1000,,40000,,per participant that sustains employment for at least 6 months - next 40 outcomes above the 370,,
+INDIGO-POJ-0302,outcomemetric3,USD,1350,,185000,,per participant that sustains employment for at least 6 months - for all additional outcomes above the 410,,
+INDIGO-POJ-0302,outcomemetric4,USD,500,,25000,,per additional female participant that sustains employment for at least 6 months above 92 female participants,,
+INDIGO-POJ-0304,outcomemetric1,USD,12.18,,5176445,,per FP service utilised,,
+INDIGO-POJ-0304,outcomemetric2,USD,12.18,,1644283,,per HIV service utilised,,
+INDIGO-POJ-0304,outcomemetric3,USD,6090,,974390,,repeat FP service users (%),,
+INDIGO-POJ-0304,outcomemetric4,USD,6496,,974390,,repeat HIV service users (%),,
+INDIGO-POJ-0304,outcomemetric5,USD,9744,,974390,,Equity (%),,
+INDIGO-POJ-0315,outcomemetric1,EUR,1542,1464.9,,,,,
+INDIGO-POJ-0315,outcomemetric2,EUR,1630,1548.5,,,,,"Eventual outcome: Patients enrolled in the program cured of HCV (negative HCV viral load), as certified by the outcome validator"
