@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+      "project_name": {
+        "type": "string"
+      },
+      "project_url": {
+        "type": "string"
+      },
+      "project_url2": {
+        "type": "string"
+      },
+      "project_description": {
+        "type": "string"
+      }
+    }
+  }
